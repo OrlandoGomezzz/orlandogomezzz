@@ -8,7 +8,7 @@ As a former investment banker, I saw the light and pivoted to tech in 2020. Have
 
 * 🌍  I'm based in Atlanta
 * 🧠  I'm learning HTML, CSS, and JavaScript
-* 🌐  I'm building <a href="www.web3familia.com">Web3 Familia</a>, a community onboarding more Latinos to crypto
+* 🌐  I'm building Web3 Familia, a community onboarding more Latinos to crypto
 
 ### Skills
 
