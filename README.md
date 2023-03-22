@@ -1,13 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Orlando Gomez (OG).
 =====================================================================================================================================
 
-Developer. Community Leader. Finance nerd.
+Newbie Developer. Community Leader. Finance nerd.
 ------------------------------------------
 
 As a former investment banker, I saw the light and pivoted to tech in 2020. Haven't looked back since.
 
 * 🌍  I'm based in Atlanta
 * 🧠  I'm learning HTML, CSS, and JavaScript
+* 🌐  I'm building <a href="www.web3familia.com">Web3 Familia</a>, a community onboarding more Latinos to crypto
 
 ### Skills
 
