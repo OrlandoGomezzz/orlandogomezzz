@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer & Community Leader
 ------------------------------------------
 
-As a former investment banker, I saw the light and pivoted to tech in 2020. Haven't looked back since.
+As a former investment banker, I saw the light and pivoted to tech in 2020.
 
 * 🌍  I'm based in Atlanta
 * 🧠  I'm learning HTML, CSS, and JavaScript
