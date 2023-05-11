@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Orlando Gomez (OG).
 =====================================================================================================================================
 
-Developer & Community Leader
+Developer & Community Builder
 ------------------------------------------
 
 As a former investment banker, I saw the light and pivoted to tech in 2020.
