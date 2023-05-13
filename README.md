@@ -6,9 +6,8 @@ Developer & Community Builder
 
 As a former investment banker, I saw the light and pivoted to tech in 2020.
 
-* 🌍  I'm based in Atlanta
-* 🧠  I'm learning HTML, CSS, JavaScript, and Python
-* 🌐  I'm building Web3 Familia, a community onboarding more Latinos to crypto
+* 🧠  Learning Python and JavaScript
+* 🌐  Building Web3 Familia, a community for Latinos in crypto
 
 ### Skills
 <p align="left">
