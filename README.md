@@ -6,7 +6,7 @@ Developer & Community Builder
 
 As a former investment banker, I saw the light and pivoted to tech in 2020.
 
-* 🧠  Learning Python and JavaScript
+* 🧠  Learning Web Development (HTML, CSS, JavaScript)
 * 🌐  Building Web3 Familia, a community for Latinos in crypto
 
 ### Skills
