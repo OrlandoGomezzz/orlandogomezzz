@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer & Community Builder
 ------------------------------------------
 Currently:
-* 🧠  Learning Web Development (HTML, CSS, JavaScript)
+* 🧠  Learning Web Development (HTML, CSS, JavaScript) + Python
 * 🌐  Building LatinosAI, a community for Latinos getting smart on AI
 
 ### Skills
