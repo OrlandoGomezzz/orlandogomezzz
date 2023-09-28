@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Orlando Gomez (OG).
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Orlando.
 =====================================================================================================================================
 
 Developer & Community Builder
 ------------------------------------------
 * 🧠  Learning Web Development (HTML, CSS, JavaScript)
-* 🌐  Building Latinos, a community for Latinos getting smart on AI
+* 🌐  Building LatinosAI, a community for Latinos getting smart on AI
 
 ### Skills
 <p align="left">
