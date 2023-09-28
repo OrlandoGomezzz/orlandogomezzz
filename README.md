@@ -5,7 +5,7 @@ Developer & Community Builder
 ------------------------------------------
 Currently:
 * 🧠  Learning Web Development (HTML, CSS, JavaScript)
-* 🐍  Python for AI tinkering
+* 🐍  Completing Replit's 100 Days of Python for AI tinkering
 * 🌐  Building LatinosAI, a community for Latinos getting smart on AI
 
 ### Skills
