@@ -1,8 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Orlando.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Orlando
 =====================================================================================================================================
 
 Developer & Community Builder
 ------------------------------------------
+Currently:
 * 🧠  Learning Web Development (HTML, CSS, JavaScript)
 * 🌐  Building LatinosAI, a community for Latinos getting smart on AI
 
